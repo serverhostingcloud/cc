@@ -15,9 +15,9 @@ from telethon import TelegramClient, events, Button
 import aiohttp, aiofiles, requests
 
 # ========== CONFIG ==========
-BOT_TOKEN = "8270991311:AAGH5z_nFH5FJXay081M2FGQbaR0-e60Ar0"
+BOT_TOKEN = "BOT_TOKEN"
 OWNER_ID = 8421079612
-OWNER_USERNAME = "@ItachiXUchiha_23"
+OWNER_USERNAME = "OWNER_USERNAME"
 BOT_BRAND, DEV_LINE = "✨ SHOPIFY CHECKER", f"🔱 Developed by {OWNER_USERNAME}"
 PREMIUM_FILE, PROXY_FILE, USER_PROXY_FILE = "premium.txt", "proxy.txt", "user_proxy.json"
 CODES_FILE = "codes.json"
